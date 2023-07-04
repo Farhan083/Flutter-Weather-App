@@ -43,6 +43,9 @@ Explore the intuitive interface to view additional weather details and navigate 
 Stay informed and plan your activities with confidence based on the accurate weather data provided.
 
 ## Screenshots
+<img width="259" alt="image" src="https://github.com/Farhan083/Flutter-Weather-App/assets/74817771/fe47400f-5995-4911-9ea7-46afee4c7f12">
+
+
 <img width="258" alt="image" src="https://github.com/Farhan083/Flutter-Weather-App/assets/74817771/3a1cdae5-97d4-4ba8-8a32-3e9c9f7c55c2">
 
 <img width="260" alt="image" src="https://github.com/Farhan083/Flutter-Weather-App/assets/74817771/b606b086-30b5-4bc1-919b-3da844110ea5">
